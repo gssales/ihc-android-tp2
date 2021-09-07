@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP2 Parte 2</string>
+    <string name="lbl_accelerometer">Accelerometer</string>
+    <string name="lbl_distance">Distance Sensor</string>
+    <string name="lbl_magnetic_field">Magnetic Field Intensity</string>
+    <string name="lbl_light">Light sensor</string>
+</resources>
